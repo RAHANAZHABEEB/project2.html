@@ -1,0 +1,48 @@
+.content{
+    display: flex;
+    justify-content: space-between;
+}
+.content{
+    color: blue;
+    
+}
+.content h2{
+    font-size: 400%;
+}
+.content a{
+    text-decoration:none;
+}
+.b{
+    display: flex;
+    background-color: cornflowerblue;
+
+}
+.b{
+    justify-content: center;
+    align-items: center;
+    padding: 80px;
+}
+.c{
+    padding: 130px;
+}
+
+.a1{
+    justify-content: center;
+    align-items: center;
+    padding: 80px;
+    display: flex;
+    background-color: coral;
+    .b{
+        background-color: coral;
+    }
+}
+.a2{
+    justify-content: center;
+    align-items: center;
+    padding: 80px;
+    display: flex;
+    background-color: darkseagreen;
+ .b{
+    background-color: darkseagreen;
+ }
+}
